@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/AquaSaviour.html"
+      "destination": "/index.html"
     }
   ]
 }
